@@ -1,1 +1,1 @@
-# House-Sales-County-USA-
+I worked with a dataset for a real estate investment trust organization who wanted to start investing in residential real estate.The dataset contains detailed information about house prices in the region based on a number of property features,I analyzed and predicted the market price of houses given that information.
